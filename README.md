@@ -1,1 +1,1 @@
-I am learning Git for Recipe site. 2
+I am learning Git for Recipe site
